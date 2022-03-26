@@ -10,3 +10,6 @@ I am a first year engineering student at Texas A&M. I enjoy projects that simual
 - [ ] Picking up on new languages
 - [ ] Staying on top of my homework
 - [ ] Enjoying the beach
+
+### What's my toxic trait?
+> Listening to the worst country music as something to code to
